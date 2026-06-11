@@ -1,0 +1,26 @@
+📊 Database Modules
+>Users
+User ID
+Name
+Email
+Phone Number
+Password
+Address
+>Products
+Product ID
+Product Name
+Category
+Price
+Stock Quantity
+Product Image
+>Orders
+Order ID
+Customer ID
+Product Details
+Total Amount
+Payment Status
+Pickup Status
+>Inventory
+Product Quantity
+Stock Availability
+Reorder Level
