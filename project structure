@@ -1,0 +1,23 @@
+QuickPack/
+│
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── components/
+│
+├── server/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── services/
+│
+├── database/
+│
+├── docs/
+│
+├── assets/
+│
+├── README.md
+│
+└── package.json
