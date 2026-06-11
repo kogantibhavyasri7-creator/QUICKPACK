@@ -1,0 +1,6 @@
+{
+  "name": "QuickPack",
+  "description": "Smart Retail Pre-Order & Pickup System. Reduce waiting times for supermarkets, groceries, and local shops with live order packing, AI suggestions, and pick-up predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
