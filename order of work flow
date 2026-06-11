@@ -1,0 +1,15 @@
+Customer Places Order
+          ↓
+Shop Receives Notification
+          ↓
+Items Collected
+          ↓
+Order Packed
+          ↓
+Customer Notified
+          ↓
+Customer Arrives
+          ↓
+QR Verification
+          ↓
+Order Delivered
